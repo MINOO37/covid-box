@@ -5,7 +5,7 @@
   <p align="center"><strong>covid-box</strong> is a GitHub Action that is designed to work using the <a href="https://developer.github.com/actions/managing-workflows/creating-and-cancelling-a-workflow/#scheduling-a-workflow"><code>schedule</code></a> event.</p>
 </p>
 
-<p align="center"><a href="https://github.com/puf17640/covid-box"><img alt="GitHub Actions status" src="https://github.com/puf17640/covid-box/workflows/Node%20CI/badge.svg"></a></p>
+<p align="center"> <a href="https://github.com/puf17640/covid-box"><img alt="GitHub Actions status" src="https://github.com/puf17640/covid-box/workflows/Node%20CI/badge.svg"></a></p>
 <br>
 
 ## Setup. 
