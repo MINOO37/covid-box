@@ -8,7 +8,7 @@
 <p align="center"><a href="https://github.com/puf17640/covid-box"><img alt="GitHub Actions status" src="https://github.com/puf17640/covid-box/workflows/Node%20CI/badge.svg"></a></p>
 <br>
 
-## Setup
+## Setup. 
 
 
 ### Prep work
